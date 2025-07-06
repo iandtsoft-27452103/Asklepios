@@ -70,7 +70,7 @@ This software use the records created by Gikou-2.0.1.
 
 (6) Python's version: 3.12.10
 
-(7) It's necessary thet the latest stable version of PyTorch is installed.
+(7) It's necessary that the latest stable version of PyTorch is installed.
 
 (8) CUDA Version: 12.8.1
 
