@@ -108,7 +108,7 @@ Double click "Asklepios.sln" and build with using Visual Studio. I reccomend you
 
 See "Known bugs" (4).
 
-## Hou to use
+## How to use
 
 If you navigate to the cnn folder or lazy_cnn folder and execute the start.bat, the specified game record will be analyzed. The command-line arguments are as follows:
 
