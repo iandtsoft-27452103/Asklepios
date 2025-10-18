@@ -2,6 +2,10 @@
 
 This repository is read-only, so Pull Request is not accepted. Thank you for your understanding.
 
+# Caution
+
+If you use this software for commercial, you must pay fees to NVIDIA.
+
 # Asklepios
 
 Asklepios is a shogi engine.
